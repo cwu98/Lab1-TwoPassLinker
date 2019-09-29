@@ -14,6 +14,8 @@ The second pass uses what was computed in the symbol table to generate the actua
 by relocating relative addresses and resolving external references. <br>
 <br>
 
+The following instructions are based on Linux Terminal.
+
 ## To compile the program: 
 ```
 javac TwoPassLinker.java
